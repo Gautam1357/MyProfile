@@ -13,9 +13,8 @@ I'm currently improving my skills in data visualization and learning more about 
 ## 🚀 Projects
 Check out my repositories for some of my data-driven projects, including data cleaning, analysis, and visualization using the tools mentioned above.
 
-Feel free to connect with me! You can also view my resume below:  
-[View My Resume](https://yourusername.github.io/resume.pdf)
+Feel free to connect with me! 
 
 ## 📬 Contact
-- Email: [your-email@example.com]  
-- LinkedIn: [Your LinkedIn Profile Link]  
+- Email: gautamsoni1357@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gautam-soni-a3b507222/  
