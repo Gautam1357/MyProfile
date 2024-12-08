@@ -10,9 +10,6 @@ I am a **Data Enthusiast** with a strong foundation in data analytics and busine
 ## 📚 Current Focus
 I'm currently improving my skills in data visualization and learning more about data cleaning and machine learning. I love exploring how data-driven insights can transform business strategies.
 
-## 🚀 Projects
-Check out my repositories for some of my data-driven projects, including data cleaning, analysis, and visualization using the tools mentioned above.
-
 Feel free to connect with me! 
 
 ## 📬 Contact
