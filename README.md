@@ -1,14 +1,22 @@
 # Hello, I'm Gautam Soni 👋
 
-I am a **Data Enthusiast** with a strong foundation in data analytics and business intelligence. I enjoy exploring data, creating reports, and uncovering actionable insights.  
+Aspiring **QA Enthusiast** seeking an entry-level position in Software Testing to leverage foundational knowledge and contribute to high-quality software solutions in a dynamic and collaborative environment.  
 
 ## 💻 Skills
-- **SQL Server**: Data management, querying, and optimization.
+- Software Development LifeCycle (SDLC)
 - **Advanced Excel**: Data analysis, pivot tables, complex formulas, and automation.
-- **Power BI**: Data visualization, creating dashboards, and reports to inform business decisions.
+- **Programming Languages**: Core Java
+- **Web Technologies**: HTML, CSS
+- **Database**: SQL, Data management, querying, and optimization.
+- **Tools & IDEs**: GitHub, SQL Plus, SQL Server, Visual Studio.
 
-## 📚 Current Focus
-I'm currently improving my skills in data visualization and learning more about data cleaning and machine learning. I love exploring how data-driven insights can transform business strategies.
+**PROJECTS:**
+**Car Rental System –**
+  Languages used: HTML, CSS, JavaScript, PHP
+	- Built a functional Car Rental System enabling users to register, log in, book cars, update profile and view booking history.
+  - Implemented an admin panel to manage vehicle brands, vehicles, bookings, testimonials, users, and content.
+  - Designed modules for booking management, testimonial posting, user authentication, and dashboard reporting.
+  - Ensured smooth workflow for both users and admin with secure password and session management.
 
 Feel free to connect with me! 
 
