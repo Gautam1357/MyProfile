@@ -13,7 +13,8 @@ Aspiring **QA Enthusiast** seeking an entry-level position in Software Testing t
 **PROJECTS:**
 **Car Rental System –**
   Languages used: HTML, CSS, JavaScript, PHP
-	- Built a functional Car Rental System enabling users to register, log in, book cars, update profile and view booking history.
+  
+  - Built a functional Car Rental System enabling users to register, log in, book cars, update profile and view booking history.
   - Implemented an admin panel to manage vehicle brands, vehicles, bookings, testimonials, users, and content.
   - Designed modules for booking management, testimonial posting, user authentication, and dashboard reporting.
   - Ensured smooth workflow for both users and admin with secure password and session management.
